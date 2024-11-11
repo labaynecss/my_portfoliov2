@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.bluring {
+  background: rgb(0, 0, 0, 0.1);
+  color:#28242c;
+  backdrop-filter: blur(10px);
+}
